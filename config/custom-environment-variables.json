@@ -1,0 +1,4 @@
+{
+    "jwtprivatekey": "movie_JwtPrivateKey",
+    "db": "db_connection"
+}

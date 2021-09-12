@@ -1,0 +1,6 @@
+{
+  "jwtprivatekey": "",
+  "db": "mongodb://localhost/movies",
+  "port": "5000",
+  "requiresAuth": true
+}
